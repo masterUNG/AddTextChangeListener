@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_6d40ac71431eccc934068cd2aab64851239e1bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_4ef9548527daaeaf9cb045c436162cc39d4e87b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_111882f8bf3a78598109f2415afffb3ef252f5d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_826deae0a5e4a3035dee0304efaeb2bd874b5148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_25c539163adeb858ec64857bad2707b2a0ae9ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterUNG/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/masterUNG/MyWorkspace/Workspace_Learning/EditTextaddTextChangedListener-Android-Examples.com/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_cf551d88c95b8e28f9886cfbd57a1033aae871ea.jar" />
+    </item>
+
+</items>
